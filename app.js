@@ -1,4 +1,4 @@
-const BASE_URL = "https://project-du66.onrender.com";
+const BASE_URL = "https://project-du66.onrender.com/api/pdf";
 const resultBox = document.getElementById("result");
 
 // 공통 결과 표시 함수
